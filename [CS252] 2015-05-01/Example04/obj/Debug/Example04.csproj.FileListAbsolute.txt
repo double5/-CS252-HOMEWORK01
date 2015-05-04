@@ -1,0 +1,6 @@
+Z:\C#\[CS252] 2015-05-01\Example04\bin\Debug\Example04.exe.config
+Z:\C#\[CS252] 2015-05-01\Example04\bin\Debug\Example04.exe
+Z:\C#\[CS252] 2015-05-01\Example04\bin\Debug\Example04.pdb
+Z:\C#\[CS252] 2015-05-01\Example04\obj\Debug\Example04.exe
+Z:\C#\[CS252] 2015-05-01\Example04\obj\Debug\Example04.pdb
+Z:\C#\[CS252] 2015-05-01\Example04\obj\Debug\Example04.csprojResolveAssemblyReference.cache
